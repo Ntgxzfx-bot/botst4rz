@@ -1,30 +1,31 @@
 # NTGXZFXBOT
 BOT WHATSAPP HP BINTANG NUR PRADANA
+NTGXZFXBOT
 
-### Alat dan Bahan
-Siapin alat dan bahannya.
+### Alat dan Bahannya
+Siapin dulu cok!
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
 > internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+> kopi & rokok
 ```
 
 ### Cara Installnya
-Sebelum lu jalanin sc nya install dulu lah.
+Sakdurunge ngaktifke sc ,install disik
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
+> git clone https://github.com/Ntgxzfx-bot/botst4rz.git
 > cd botst4rz
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
 ```
 
-## Features
+## Fitur anjay
 
 | NTGXZFX BOT    |                Feature           |
 | :-----------: | :--------------------------------: |
@@ -49,4 +50,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/xzar)
