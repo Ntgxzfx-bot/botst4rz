@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 const BotName = 'NTGXZFX BOT🇮🇩'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/ntgxzfx_?igshid=b0c9qbmoc5sr'; // Nama Instagramlu cok
 const whatsapplu = '0858-6521-3494'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
+const kapanbotaktif = 'Jam 08.00-15.30'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/B93BHK4wKN6AHxBSYfVuCC'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/6N9qqod0pRJL0TBOerU2y5'; // OFFICIAL GRUP LU 2
 //
